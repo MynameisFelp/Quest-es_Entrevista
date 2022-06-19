@@ -19,7 +19,7 @@ int main(){
      }
     }
     if(cont1>0){
-        printf("Pertece\n");
+        printf("Pertence\n");
     }
     else{
         printf("Não pertence");
